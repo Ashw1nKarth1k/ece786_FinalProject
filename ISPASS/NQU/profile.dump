@@ -1,0 +1,505 @@
+SM 0 : 
+kernel 1 : 
+addr : 3221225472, ref : 1, 
+addr : 3221225504, ref : 1, 
+addr : 3221225536, ref : 1, 
+addr : 3221323776, ref : 1, 
+addr : 3221323808, ref : 1, 
+addr : 3221323840, ref : 1, 
+addr : 3221422080, ref : 1, 
+addr : 3221422112, ref : 1, 
+addr : 3221422144, ref : 1, 
+addr : 3221520384, ref : 1, 
+addr : 3221520704, ref : 1, 
+addr : 3221521024, ref : 1, 
+addr : 3221521344, ref : 1, 
+
+SM 1 : 
+kernel 1 : 
+addr : 3221520384, ref : 1, 
+addr : 3221520704, ref : 1, 
+addr : 3221521024, ref : 1, 
+addr : 3221521344, ref : 1, 
+
+SM 2 : 
+kernel 1 : 
+addr : 3221520384, ref : 1, 
+addr : 3221520704, ref : 1, 
+addr : 3221521024, ref : 1, 
+addr : 3221521344, ref : 1, 
+
+SM 3 : 
+kernel 1 : 
+addr : 3221520384, ref : 1, 
+addr : 3221520704, ref : 1, 
+addr : 3221521024, ref : 1, 
+addr : 3221521344, ref : 1, 
+
+SM 4 : 
+kernel 1 : 
+addr : 3221520384, ref : 1, 
+addr : 3221520704, ref : 1, 
+addr : 3221521024, ref : 1, 
+addr : 3221521344, ref : 1, 
+
+SM 5 : 
+kernel 1 : 
+addr : 3221520384, ref : 1, 
+addr : 3221520704, ref : 1, 
+addr : 3221521024, ref : 1, 
+addr : 3221521344, ref : 1, 
+
+SM 6 : 
+kernel 1 : 
+addr : 3221520384, ref : 1, 
+addr : 3221520704, ref : 1, 
+addr : 3221521024, ref : 1, 
+addr : 3221521344, ref : 1, 
+
+SM 7 : 
+kernel 1 : 
+addr : 3221520384, ref : 1, 
+addr : 3221520704, ref : 1, 
+addr : 3221521024, ref : 1, 
+addr : 3221521344, ref : 1, 
+
+SM 8 : 
+kernel 1 : 
+addr : 3221520416, ref : 1, 
+addr : 3221520736, ref : 1, 
+addr : 3221521056, ref : 1, 
+addr : 3221521376, ref : 1, 
+
+SM 9 : 
+kernel 1 : 
+addr : 3221520416, ref : 1, 
+addr : 3221520736, ref : 1, 
+addr : 3221521056, ref : 1, 
+addr : 3221521376, ref : 1, 
+
+SM 10 : 
+kernel 1 : 
+addr : 3221520416, ref : 1, 
+addr : 3221520736, ref : 1, 
+addr : 3221521056, ref : 1, 
+addr : 3221521376, ref : 1, 
+
+SM 11 : 
+kernel 1 : 
+addr : 3221520416, ref : 1, 
+addr : 3221520736, ref : 1, 
+addr : 3221521056, ref : 1, 
+addr : 3221521376, ref : 1, 
+
+SM 12 : 
+kernel 1 : 
+addr : 3221520416, ref : 1, 
+addr : 3221520736, ref : 1, 
+addr : 3221521056, ref : 1, 
+addr : 3221521376, ref : 1, 
+
+SM 13 : 
+kernel 1 : 
+addr : 3221520416, ref : 1, 
+addr : 3221520736, ref : 1, 
+addr : 3221521056, ref : 1, 
+addr : 3221521376, ref : 1, 
+
+SM 14 : 
+kernel 1 : 
+addr : 3221520416, ref : 1, 
+addr : 3221520736, ref : 1, 
+addr : 3221521056, ref : 1, 
+addr : 3221521376, ref : 1, 
+
+SM 15 : 
+kernel 1 : 
+addr : 3221520416, ref : 1, 
+addr : 3221520736, ref : 1, 
+addr : 3221521056, ref : 1, 
+addr : 3221521376, ref : 1, 
+
+SM 16 : 
+kernel 1 : 
+addr : 3221520448, ref : 1, 
+addr : 3221520768, ref : 1, 
+addr : 3221521088, ref : 1, 
+
+SM 17 : 
+kernel 1 : 
+addr : 3221520448, ref : 1, 
+addr : 3221520768, ref : 1, 
+addr : 3221521088, ref : 1, 
+
+SM 18 : 
+kernel 1 : 
+addr : 3221520448, ref : 1, 
+addr : 3221520768, ref : 1, 
+addr : 3221521088, ref : 1, 
+
+SM 19 : 
+kernel 1 : 
+addr : 3221520448, ref : 1, 
+addr : 3221520768, ref : 1, 
+addr : 3221521088, ref : 1, 
+
+SM 20 : 
+kernel 1 : 
+addr : 3221520448, ref : 1, 
+addr : 3221520768, ref : 1, 
+addr : 3221521088, ref : 1, 
+
+SM 21 : 
+kernel 1 : 
+addr : 3221520448, ref : 1, 
+addr : 3221520768, ref : 1, 
+addr : 3221521088, ref : 1, 
+
+SM 22 : 
+kernel 1 : 
+addr : 3221520448, ref : 1, 
+addr : 3221520768, ref : 1, 
+addr : 3221521088, ref : 1, 
+
+SM 23 : 
+kernel 1 : 
+addr : 3221520448, ref : 1, 
+addr : 3221520768, ref : 1, 
+addr : 3221521088, ref : 1, 
+
+SM 24 : 
+kernel 1 : 
+addr : 3221520480, ref : 1, 
+addr : 3221520800, ref : 1, 
+addr : 3221521120, ref : 1, 
+
+SM 25 : 
+kernel 1 : 
+addr : 3221520480, ref : 1, 
+addr : 3221520800, ref : 1, 
+addr : 3221521120, ref : 1, 
+
+SM 26 : 
+kernel 1 : 
+addr : 3221520480, ref : 1, 
+addr : 3221520800, ref : 1, 
+addr : 3221521120, ref : 1, 
+
+SM 27 : 
+kernel 1 : 
+addr : 3221520480, ref : 1, 
+addr : 3221520800, ref : 1, 
+addr : 3221521120, ref : 1, 
+
+SM 28 : 
+kernel 1 : 
+addr : 3221520480, ref : 1, 
+addr : 3221520800, ref : 1, 
+addr : 3221521120, ref : 1, 
+
+SM 29 : 
+kernel 1 : 
+addr : 3221520480, ref : 1, 
+addr : 3221520800, ref : 1, 
+addr : 3221521120, ref : 1, 
+
+SM 30 : 
+kernel 1 : 
+addr : 3221520480, ref : 1, 
+addr : 3221520800, ref : 1, 
+addr : 3221521120, ref : 1, 
+
+SM 31 : 
+kernel 1 : 
+addr : 3221520480, ref : 1, 
+addr : 3221520800, ref : 1, 
+addr : 3221521120, ref : 1, 
+
+SM 32 : 
+kernel 1 : 
+addr : 3221520512, ref : 1, 
+addr : 3221520832, ref : 1, 
+addr : 3221521152, ref : 1, 
+
+SM 33 : 
+kernel 1 : 
+addr : 3221520512, ref : 1, 
+addr : 3221520832, ref : 1, 
+addr : 3221521152, ref : 1, 
+
+SM 34 : 
+kernel 1 : 
+addr : 3221520512, ref : 1, 
+addr : 3221520832, ref : 1, 
+addr : 3221521152, ref : 1, 
+
+SM 35 : 
+kernel 1 : 
+addr : 3221520512, ref : 1, 
+addr : 3221520832, ref : 1, 
+addr : 3221521152, ref : 1, 
+
+SM 36 : 
+kernel 1 : 
+addr : 3221520512, ref : 1, 
+addr : 3221520832, ref : 1, 
+addr : 3221521152, ref : 1, 
+
+SM 37 : 
+kernel 1 : 
+addr : 3221520512, ref : 1, 
+addr : 3221520832, ref : 1, 
+addr : 3221521152, ref : 1, 
+
+SM 38 : 
+kernel 1 : 
+addr : 3221520512, ref : 1, 
+addr : 3221520832, ref : 1, 
+addr : 3221521152, ref : 1, 
+
+SM 39 : 
+kernel 1 : 
+addr : 3221520512, ref : 1, 
+addr : 3221520832, ref : 1, 
+addr : 3221521152, ref : 1, 
+
+SM 40 : 
+kernel 1 : 
+addr : 3221520544, ref : 1, 
+addr : 3221520864, ref : 1, 
+addr : 3221521184, ref : 1, 
+
+SM 41 : 
+kernel 1 : 
+addr : 3221520544, ref : 1, 
+addr : 3221520864, ref : 1, 
+addr : 3221521184, ref : 1, 
+
+SM 42 : 
+kernel 1 : 
+addr : 3221520544, ref : 1, 
+addr : 3221520864, ref : 1, 
+addr : 3221521184, ref : 1, 
+
+SM 43 : 
+kernel 1 : 
+addr : 3221520544, ref : 1, 
+addr : 3221520864, ref : 1, 
+addr : 3221521184, ref : 1, 
+
+SM 44 : 
+kernel 1 : 
+addr : 3221520544, ref : 1, 
+addr : 3221520864, ref : 1, 
+addr : 3221521184, ref : 1, 
+
+SM 45 : 
+kernel 1 : 
+addr : 3221520544, ref : 1, 
+addr : 3221520864, ref : 1, 
+addr : 3221521184, ref : 1, 
+
+SM 46 : 
+kernel 1 : 
+addr : 3221520544, ref : 1, 
+addr : 3221520864, ref : 1, 
+addr : 3221521184, ref : 1, 
+
+SM 47 : 
+kernel 1 : 
+addr : 3221520544, ref : 1, 
+addr : 3221520864, ref : 1, 
+addr : 3221521184, ref : 1, 
+
+SM 48 : 
+kernel 1 : 
+addr : 3221520576, ref : 1, 
+addr : 3221520896, ref : 1, 
+addr : 3221521216, ref : 1, 
+
+SM 49 : 
+kernel 1 : 
+addr : 3221520576, ref : 1, 
+addr : 3221520896, ref : 1, 
+addr : 3221521216, ref : 1, 
+
+SM 50 : 
+kernel 1 : 
+addr : 3221520576, ref : 1, 
+addr : 3221520896, ref : 1, 
+addr : 3221521216, ref : 1, 
+
+SM 51 : 
+kernel 1 : 
+addr : 3221520576, ref : 1, 
+addr : 3221520896, ref : 1, 
+addr : 3221521216, ref : 1, 
+
+SM 52 : 
+kernel 1 : 
+addr : 3221520576, ref : 1, 
+addr : 3221520896, ref : 1, 
+addr : 3221521216, ref : 1, 
+
+SM 53 : 
+kernel 1 : 
+addr : 3221520576, ref : 1, 
+addr : 3221520896, ref : 1, 
+addr : 3221521216, ref : 1, 
+
+SM 54 : 
+kernel 1 : 
+addr : 3221520576, ref : 1, 
+addr : 3221520896, ref : 1, 
+addr : 3221521216, ref : 1, 
+
+SM 55 : 
+kernel 1 : 
+addr : 3221520576, ref : 1, 
+addr : 3221520896, ref : 1, 
+addr : 3221521216, ref : 1, 
+
+SM 56 : 
+kernel 1 : 
+addr : 3221520608, ref : 1, 
+addr : 3221520928, ref : 1, 
+addr : 3221521248, ref : 1, 
+
+SM 57 : 
+kernel 1 : 
+addr : 3221520608, ref : 1, 
+addr : 3221520928, ref : 1, 
+addr : 3221521248, ref : 1, 
+
+SM 58 : 
+kernel 1 : 
+addr : 3221520608, ref : 1, 
+addr : 3221520928, ref : 1, 
+addr : 3221521248, ref : 1, 
+
+SM 59 : 
+kernel 1 : 
+addr : 3221520608, ref : 1, 
+addr : 3221520928, ref : 1, 
+addr : 3221521248, ref : 1, 
+
+SM 60 : 
+kernel 1 : 
+addr : 3221520608, ref : 1, 
+addr : 3221520928, ref : 1, 
+addr : 3221521248, ref : 1, 
+
+SM 61 : 
+kernel 1 : 
+addr : 3221520608, ref : 1, 
+addr : 3221520928, ref : 1, 
+addr : 3221521248, ref : 1, 
+
+SM 62 : 
+kernel 1 : 
+addr : 3221520608, ref : 1, 
+addr : 3221520928, ref : 1, 
+addr : 3221521248, ref : 1, 
+
+SM 63 : 
+kernel 1 : 
+addr : 3221520608, ref : 1, 
+addr : 3221520928, ref : 1, 
+addr : 3221521248, ref : 1, 
+
+SM 64 : 
+kernel 1 : 
+addr : 3221520640, ref : 1, 
+addr : 3221520960, ref : 1, 
+addr : 3221521280, ref : 1, 
+
+SM 65 : 
+kernel 1 : 
+addr : 3221520640, ref : 1, 
+addr : 3221520960, ref : 1, 
+addr : 3221521280, ref : 1, 
+
+SM 66 : 
+kernel 1 : 
+addr : 3221520640, ref : 1, 
+addr : 3221520960, ref : 1, 
+addr : 3221521280, ref : 1, 
+
+SM 67 : 
+kernel 1 : 
+addr : 3221520640, ref : 1, 
+addr : 3221520960, ref : 1, 
+addr : 3221521280, ref : 1, 
+
+SM 68 : 
+kernel 1 : 
+addr : 3221520640, ref : 1, 
+addr : 3221520960, ref : 1, 
+addr : 3221521280, ref : 1, 
+
+SM 69 : 
+kernel 1 : 
+addr : 3221520640, ref : 1, 
+addr : 3221520960, ref : 1, 
+addr : 3221521280, ref : 1, 
+
+SM 70 : 
+kernel 1 : 
+addr : 3221520640, ref : 1, 
+addr : 3221520960, ref : 1, 
+addr : 3221521280, ref : 1, 
+
+SM 71 : 
+kernel 1 : 
+addr : 3221520640, ref : 1, 
+addr : 3221520960, ref : 1, 
+addr : 3221521280, ref : 1, 
+
+SM 72 : 
+kernel 1 : 
+addr : 3221520672, ref : 1, 
+addr : 3221520992, ref : 1, 
+addr : 3221521312, ref : 1, 
+
+SM 73 : 
+kernel 1 : 
+addr : 3221520672, ref : 1, 
+addr : 3221520992, ref : 1, 
+addr : 3221521312, ref : 1, 
+
+SM 74 : 
+kernel 1 : 
+addr : 3221520672, ref : 1, 
+addr : 3221520992, ref : 1, 
+addr : 3221521312, ref : 1, 
+
+SM 75 : 
+kernel 1 : 
+addr : 3221520672, ref : 1, 
+addr : 3221520992, ref : 1, 
+addr : 3221521312, ref : 1, 
+
+SM 76 : 
+kernel 1 : 
+addr : 3221520672, ref : 1, 
+addr : 3221520992, ref : 1, 
+addr : 3221521312, ref : 1, 
+
+SM 77 : 
+kernel 1 : 
+addr : 3221520672, ref : 1, 
+addr : 3221520992, ref : 1, 
+addr : 3221521312, ref : 1, 
+
+SM 78 : 
+kernel 1 : 
+addr : 3221520672, ref : 1, 
+addr : 3221520992, ref : 1, 
+addr : 3221521312, ref : 1, 
+
+SM 79 : 
+kernel 1 : 
+addr : 3221520672, ref : 1, 
+addr : 3221520992, ref : 1, 
+addr : 3221521312, ref : 1, 
+
